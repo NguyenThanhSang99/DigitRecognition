@@ -3,5 +3,3 @@ torch
 torchvision
 matplotlib
 numpy
-keras
-tensorflow
